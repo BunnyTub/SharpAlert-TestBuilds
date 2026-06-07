@@ -3,5 +3,4 @@ SharpAlert test builds are uploaded into Releases here. They are unstable builds
 
 If you are looking for official release downloads, go to https://bunnytub.com/SharpAlert
 
-Please make issues on test builds if any are found.
-Please do NOT make pull requests in this repository.
+Please do NOT make issues, or make pull requests.
